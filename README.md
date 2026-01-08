@@ -17,4 +17,4 @@ Um jogo de aventura interativo baseado em texto, desenvolvido para rodar no term
  ```bash
  python jogo_aventura.py
   ```
- DESENVOLVIDO POR [Diony Max](https://www.linkedin.com/in/seu-perfil-aqui)
+ DESENVOLVIDO POR [Diony Max](https://www.linkedin.com/in/diony-willker-f-232997241/)
