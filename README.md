@@ -11,8 +11,10 @@ Um jogo de aventura interativo baseado em texto, desenvolvido para rodar no term
 * Diferentes caminhos baseados nas escolhas do jogador.
 
 ## 🛠️ Como rodar o jogo
-1. Certifique-se de ter o Python instalado.
-2. Baixe o arquivo `jogo_aventura.py`.
-3. No terminal, execute:
-```bash
-DESENVOLVIDO POR DIony max
+ Certifique-se de ter o Python instalado.
+ Baixe o arquivo `jogo_aventura.py`.
+ No terminal, execute:
+ ```bash
+ python jogo_aventura.py
+  ```
+ DESENVOLVIDO POR [Diony Max](https://www.linkedin.com/in/seu-perfil-aqui)
