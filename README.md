@@ -55,4 +55,4 @@ python jogo_aventura.py
 Desenvolvido por Diony Willker Ferreira Jacomini.
 
 LinkedIn:
-https://www.linkedin.com/in/diony-willker-f-232997241/
+LinkedIn: [https://www.linkedin.com/in/diony-willker-f-232997241/](https://www.linkedin.com/in/diony-willker-f-232997241/)
