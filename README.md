@@ -21,7 +21,7 @@ Um jogo de aventura baseado em texto desenvolvido em Python. O projeto foi criad
 
 * Python
 
-## ▶️ Como executar o projeto
+## ▶️  Como executar o projeto
 
 1. Clone o repositório:
 
